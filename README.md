@@ -1,5 +1,7 @@
 # Trie1
 
+I am trying to learn Julia 1.X.
+
 ## How I run test
 
 ```
