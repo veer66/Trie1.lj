@@ -1,0 +1,13 @@
+name = "Trie1"
+uuid = "184847f8-4b3f-497e-9f1a-4a207017ef0b"
+authors = ["Vee Satayamas <5ssgdxltv@relay.firefox.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
